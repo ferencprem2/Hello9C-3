@@ -1,1 +1,1 @@
-biciklio, kocsi, labda, gordeszka
+biciklio, kocsi, labda, gordeszka, segway
